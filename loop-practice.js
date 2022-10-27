@@ -13,3 +13,5 @@
 
 // 5. find the average of an array
 // [18,21,15,30,60,2]
+
+
